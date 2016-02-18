@@ -8,13 +8,6 @@ body{
 	font-family: 'Marck Script', cursive;
 }
 
-#container{
-	background-color: #FFFACD;
-	width: 600px;
-	height:auto;
-	margin-left: auto;
-	margin-right: auto;
-	
 }
 
 header{
@@ -39,54 +32,15 @@ ul li{
 	font-size: 18px
 }
 
-nav a:link, 
-nav a:visited,
-nav a:hover,
-nav a:active
-{
- 	text-decoration: none;
- 	font-size: 30px;
- 	color:#AF2F48;
- 	font-family: 'Marck Script', cursive;
-}
-
-#frame{
-	border: 2px solid #AF2F48;
-    border-radius: 5px;
-    width: 500px;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
-
-}
-
-#logoBanana{
-	margin-top: 15px;
-	margin-left: 10px;
-}
-
 h2{
 	text-align: center;
 }
 
-#ingredients{
-	height: auto;
-	margin-left: -90px
-}
+p{ 
+	text-align: center;
+	}
 
 ul li{
 	margin-top: 10px;
 	list-style: none;
-}
-
-.LI-Custom{
-	width: 70%
-}
-
-#txtInstructions{
-	width: 80%;
-	margin-left:auto;
-	margin-right: auto;
 }
