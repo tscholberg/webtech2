@@ -1,3 +1,13 @@
+.image-bg2 {
+	display:inline-block;
+	height:350px;
+	width:50%;
+	background-image:url('http://www.njam.tv/sites/default/files/imagecache/recipeDetailCropped/shutterstock_55077121_0.jpg');
+	background-position: left;
+	background-repeat: no-repeat;
+	float:left;
+	background-size: 100%;
+}
 
 .image-bg3 {
 	display:inline-block;
