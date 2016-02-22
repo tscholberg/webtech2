@@ -17,6 +17,16 @@
 	float:left;
 	background-size: 100%;
 }
+.image-bg3 {
+	display:inline-block;
+	height:350px;
+	width:50%;
+	background-image:url('../img/cupcake.jpg');
+	background-position: left;
+	background-repeat: no-repeat;
+	float:left;
+	background-size: 100%;
+}
 
 .quote {
 	padding-top:1.5em;
