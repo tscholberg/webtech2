@@ -1,3 +1,12 @@
+.image-bg {
+	display:inline-block;
+	height:450px;
+	width:50%;
+	background-image:url(../img/white-chocolate-mousse.jpg);
+	background-position: left;
+	background-repeat: no-repeat;
+	float:left;
+}
 .image-bg2 {
 	display:inline-block;
 	height:350px;
