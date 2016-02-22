@@ -22,7 +22,11 @@
 	padding-top:1.5em;
 	padding-left:2em;
 }
-
+.quote2 {
+	padding-top:1.5em;
+	padding-left:2em;
+	width: 200px;
+}
 h2 {
 	font-family: 'Pacifico', cursive;
 	color: #c3313e;
